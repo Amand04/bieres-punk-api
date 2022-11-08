@@ -1,10 +1,98 @@
 .App {
   text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 100;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.title {
+  color: rgb(72, 235, 31);
+  font-style: italic;
+  text-align: center;
+}
+
+.name {
+  color: rgb(228, 15, 210);
+  text-decoration-line: none;
+}
+
+.beer {
+  color: rgb(59, 243, 234);
+  font-style: italic;
+}
+
+.tagline {
+  color: rgb(217, 172, 238);
+  font-weight: 100;
+}
+.first_brewed {
+  color: rgb(217, 172, 238);
+  font-weight: 100;
+}
+.description {
+  color: rgb(217, 172, 238);
+  font-weight: 100;
+}
+.image_url {
+  color: rgb(217, 172, 238);
+  font-weight: 100;
+}
+.abv {
+  color: rgb(217, 172, 238);
+  font-weight: 100;
+}
+.fermentation {
+  color: rgb(217, 172, 238);
+  font-weight: 100;
+}
+
+.image {
+  height: 20rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 5rem;
+}
+
+.story {
+  width: 400px;
+  height: 400px;
+  margin: 10rem;
+}
+
+.imageA {
+  width: 1.5rem;
+  height: 6.5rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5rem;
+}
+
+#btn_accueil {
+  background-color: #46c71f;
+  border: #46c71f;
+  color: black;
+  margin: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: italic;
+  font-weight: 100;
+  font-size: x-large;
+}
+
+.icone {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.footer {
+  background-color: #282e3b;
+  color: rgb(228, 15, 210);
+  text-align: center;
+  width: 100vw;
+  height: 10vh;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: italic;
+  font-size: 1.2rem;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -14,7 +102,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #282e3b;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,17 +110,4 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
