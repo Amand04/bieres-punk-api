@@ -7,7 +7,7 @@ const App = () => {
 
   useEffect(() => {
     (async function () {
-      const url = "https://api.punkapi.com/v2/beers?page=4&per_page=25";
+      const url = "https://api.punkapi.com/v2/beers?page=2&per_page=10";
 
       const response = await fetch(url);
       const beersFromApi = await response.json();
