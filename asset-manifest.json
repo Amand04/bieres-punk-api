@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bieres-punk-API/static/css/main.8defd0c8.css",
-    "main.js": "/bieres-punk-API/static/js/main.1979a588.js",
-    "static/js/787.a5f8891e.chunk.js": "/bieres-punk-API/static/js/787.a5f8891e.chunk.js",
-    "static/media/International Beer Day-amico.png": "/bieres-punk-API/static/media/International Beer Day-amico.c5244d8c9a2cb6b88fe2.png",
-    "static/media/arrow_left.svg": "/bieres-punk-API/static/media/arrow_left.798c63f32709a280cf1f618089a48997.svg",
-    "index.html": "/bieres-punk-API/index.html",
-    "main.8defd0c8.css.map": "/bieres-punk-API/static/css/main.8defd0c8.css.map",
-    "main.1979a588.js.map": "/bieres-punk-API/static/js/main.1979a588.js.map",
-    "787.a5f8891e.chunk.js.map": "/bieres-punk-API/static/js/787.a5f8891e.chunk.js.map"
+    "main.css": "/bieres_punk_API/static/css/main.8defd0c8.css",
+    "main.js": "/bieres_punk_API/static/js/main.fad71e6e.js",
+    "static/js/787.a5f8891e.chunk.js": "/bieres_punk_API/static/js/787.a5f8891e.chunk.js",
+    "static/media/International Beer Day-amico.png": "/bieres_punk_API/static/media/International Beer Day-amico.c5244d8c9a2cb6b88fe2.png",
+    "static/media/arrow_left.svg": "/bieres_punk_API/static/media/arrow_left.798c63f32709a280cf1f618089a48997.svg",
+    "index.html": "/bieres_punk_API/index.html",
+    "main.8defd0c8.css.map": "/bieres_punk_API/static/css/main.8defd0c8.css.map",
+    "main.fad71e6e.js.map": "/bieres_punk_API/static/js/main.fad71e6e.js.map",
+    "787.a5f8891e.chunk.js.map": "/bieres_punk_API/static/js/787.a5f8891e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8defd0c8.css",
-    "static/js/main.1979a588.js"
+    "static/js/main.fad71e6e.js"
   ]
 }
