@@ -1,8 +1,8 @@
 {
-  "name": "dietet",
+  "name": "bieres-punk-api",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Amand04.github.io/bieres-Punk-API",
+  "homepage": "https://Amand04.github.io/bieres-punk-api",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
