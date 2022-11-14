@@ -3,7 +3,6 @@ import Home from "./pages/Home.jsx";
 import "./App.css";
 import Beer from "./pages/Beer.jsx";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Footer from "./components/Footer.jsx";
 
 function App() {
   return (
@@ -16,7 +15,6 @@ function App() {
           </Routes>
         </BrowserRouter>
       </header>
-      <Footer />
     </>
   );
 }
