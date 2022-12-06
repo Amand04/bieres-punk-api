@@ -69,6 +69,16 @@
   margin-bottom: 1.5rem;
 }
 
+.imageA_home {
+  width: 4rem;
+  height: 14rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1.5rem;
+  margin-top: 8rem;
+}
+
 #btn_accueil {
   background-color: #46c71f;
   border: #46c71f;

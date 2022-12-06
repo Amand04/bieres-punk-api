@@ -40,7 +40,7 @@ const App = (pageNumber) => {
                 <Link className="name" to={"/beers/" + beer.id}>
                   <img
                     src={beer.image_url}
-                    className="imageA mt-5"
+                    className="imageA_home"
                     alt="the beer"
                   />
                   {beer.name}
